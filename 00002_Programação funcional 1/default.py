@@ -1,2 +1,2 @@
-def composicao(f, g, x):
+def composicao(x, f, g):
   # Seu código aqui
