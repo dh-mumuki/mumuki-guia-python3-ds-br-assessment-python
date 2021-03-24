@@ -1,0 +1,1 @@
+Percorra cada caracter da _string_ `pi`.
