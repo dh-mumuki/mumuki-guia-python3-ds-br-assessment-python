@@ -1,1 +1,2 @@
-Percorra cada caracter da _string_ `pi`.
+- Os dois primeiros caracteres são irrelevantes.
+- O operador `%` permite identificar se um **número** é par ou ímpar.
