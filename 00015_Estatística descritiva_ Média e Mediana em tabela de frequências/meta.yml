@@ -1,0 +1,27 @@
+---
+locale: pt
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: A média é de aproximadamente 1,66 m
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: A média é de aproximadamente 1,63 m
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: A mediana esta entre 1,60 m e 1,65 m
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: A mediana esta entre 1,65 m e 1,75 m
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Nenhuma afirmação esta correta
+  checked: false
+name: 'Estatística descritiva: Média e Mediana em tabela de frequências'
