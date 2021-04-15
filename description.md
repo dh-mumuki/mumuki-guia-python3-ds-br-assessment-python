@@ -1,1 +1,1 @@
-Questões de Python para o desafio de nivelamento do curso de _Data Science_, versão de abril/2021.
+Questões de Estatística e probabilidade para o desafio de nivelamento do curso de _Data Science_, versão de abril/2021.
