@@ -1,0 +1,1 @@
+Há 30% de chances de chuva no sábado e 45% de chances de chuva no domingo. Qual a probabilidade de que **não** chova nesse final de semana?

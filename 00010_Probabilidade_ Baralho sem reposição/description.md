@@ -1,1 +1,0 @@
-Considerando um baralho de 52 cartas, com 4 naipes de 13 cartas, qual a probabilidade de entre três cartas extraídas aleatoriamente, sem reposição, duas serem do mesmo naipe?
