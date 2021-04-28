@@ -1,1 +1,0 @@
-Ao jogar um dado de seis faces três vezes seguidas, qual é a probabilidade aproximada de você obter o número 6 **ao menos uma vez**?

@@ -1,0 +1,1 @@
+Se a moeda fosse honesta, o valor esperado desse jogo seria de R$ 15. Ou seja, você teria um lucro de R$ 15 por jogo, em média.

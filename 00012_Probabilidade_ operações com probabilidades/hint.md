@@ -1,1 +1,0 @@
-Avalie que queremos dois resultados possíveis em mais de um dado.
