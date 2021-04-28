@@ -24,4 +24,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: 41; 41; 41
   checked: false
-name: 'Estatistica descritiva: Medidas de centralidade'
+name: Medidas de centralidade
