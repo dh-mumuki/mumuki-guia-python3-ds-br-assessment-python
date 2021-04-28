@@ -13,14 +13,14 @@ choices:
   value: 13,5%
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: 25,0%
+  value: 75,0%
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: 38,5%
-  checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: 75,0%
   checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 86,5%
+  checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Nenhuma das anteriores
   checked: false
