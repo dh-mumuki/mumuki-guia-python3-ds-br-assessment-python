@@ -24,4 +24,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Nenhuma afirmação esta correta
   checked: false
-name: 'Estatística descritiva: Média e Mediana em tabela de frequências'
+name: Tabela de frequências
