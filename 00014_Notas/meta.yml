@@ -24,4 +24,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: 5,25; Não há como responder pois é impossível calcular seu desvio padrão
   checked: false
-name: 'Estatística descritiva: Média e Desvio Padrão'
+name: Notas
