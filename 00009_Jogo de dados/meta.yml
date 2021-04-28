@@ -24,4 +24,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Nenhuma das anteriores
   checked: false
-name: 'Probabilidade: Evento complementar'
+name: Jogo de dados
