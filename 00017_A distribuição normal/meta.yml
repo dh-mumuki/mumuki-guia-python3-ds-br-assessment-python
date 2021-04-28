@@ -24,4 +24,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Todas as anteriores
   checked: false
-name: 'Estatística descritiva: Propriedades da distribuição normal'
+name: A distribuição normal
