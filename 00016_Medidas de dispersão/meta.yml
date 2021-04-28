@@ -24,4 +24,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Todas as anteriores
   checked: true
-name: 'Estatística descritiva: Medidas de dispersão'
+name: Medidas de dispersão
