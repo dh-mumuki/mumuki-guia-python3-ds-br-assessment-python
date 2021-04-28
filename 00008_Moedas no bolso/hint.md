@@ -1,0 +1,1 @@
+Pense no único evento que **não** pode acontecer (evento complementar) para satisfazer os eventos desejados.
