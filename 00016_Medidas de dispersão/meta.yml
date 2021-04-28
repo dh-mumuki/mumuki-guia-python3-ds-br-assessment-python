@@ -11,17 +11,14 @@ manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Amplitude
-  checked: false
+  checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Desvio absoluto médio
-  checked: false
+  checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Variância
-  checked: false
+  checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Desvio Padrão
-  checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Todas as anteriores
   checked: true
 name: Medidas de dispersão
